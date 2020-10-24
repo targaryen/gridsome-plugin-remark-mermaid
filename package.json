@@ -11,7 +11,7 @@
   "author": "Braincoke <braincoke+contact@protonmail.com>",
   "license": "MIT",
   "dependencies": {
-    "mermaid": "^8.4.8",
+    "mermaid": "targaryen/mermaid#develop",
     "path": "^0.12.7",
     "puppeteer": "^2.1.1",
     "unist-util-remove": "^2.0.0",
